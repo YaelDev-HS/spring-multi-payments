@@ -1,4 +1,4 @@
-package com.yael.multi.payments.multi_payments;
+package com.yael.multi.payments;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
